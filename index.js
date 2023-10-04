@@ -1,3 +1,9 @@
+/*  Programmer:   labthe3rd
+ *  Date:         10/3/2023
+ *  Desc:         When an API request is received it returns ip, language, and user-agent
+ *  Note:         This code was created to earn my Back End Development and API cert from freeCodeCamp
+ */
+
 // index.js
 // where your node app starts
 
